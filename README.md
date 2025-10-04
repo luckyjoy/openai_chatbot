@@ -1,4 +1,4 @@
-# Gemini-Powered Flask Chatbot
+# OpenAI-Powered Flask Chatbot
 
 This project is a secure, authenticated web application built with **Flask** that provides a chat interface powered by the **OpenAI API**. It uses **JWT (JSON Web Tokens)** for stateless authentication and **Tailwind CSS** for a modern, responsive design.
 
@@ -29,7 +29,7 @@ Ensure your `.env` file is in the project root and contains the following necess
 | :--- | :--- | :--- |
 | `OPENAI_API_KEY` | Your **OpenAI API Key**. | `sk-xxxxxxxxxxxx` |
 | `ADMIN_USER` | The username for the database. | `admin` |
-| `ADMIN_PASS` | The password for the user. | `admin1234@` |
+| `ADMIN_PASS` | The password for the user. | `a2kdoe76!5s@` |
 | `SECRET_KEY` | Flask session secret key. | `supersecretkey` |
 | `JWT_SECRET_KEY` | JWT signing secret key. | `jwt-secret-string` |
 
